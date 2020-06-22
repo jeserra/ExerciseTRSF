@@ -1,0 +1,2 @@
+var teamPoints1 = new Random(5);
+var teamPoints2 = new Random(5);

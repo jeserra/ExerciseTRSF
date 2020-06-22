@@ -1,0 +1,13 @@
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\bin\Debug\netcoreapp3.1\Session2E2.exe
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\bin\Debug\netcoreapp3.1\Session2E2.deps.json
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\bin\Debug\netcoreapp3.1\Session2E2.runtimeconfig.json
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\bin\Debug\netcoreapp3.1\Session2E2.runtimeconfig.dev.json
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\bin\Debug\netcoreapp3.1\Session2E2.dll
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\bin\Debug\netcoreapp3.1\Session2E2.pdb
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.csprojAssemblyReference.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.AssemblyInfoInputs.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.AssemblyInfo.cs
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.csproj.CoreCompileInputs.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.dll
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.pdb
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session2E2\obj\Debug\netcoreapp3.1\Session2E2.genruntimeconfig.cache
