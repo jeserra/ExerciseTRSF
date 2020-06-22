@@ -19,10 +19,16 @@ namespace Exercise2
 
         public void Dsplay()
         {
-            for (int i = 0; i == X; i++){
-                Console.WriteLine("#");}
-            string resultado = String.Concat(Enumerable.Repeat(" ", Y));
-            Console.WriteLine($"{resultado} {SetString}");
+            int i=0;
+
+            while (i==X){
+                Console.WriteLine(" 1");
+
+            }
+
+
+            string resultado = String.Concat(Enumerable.Repeat(" ", X));
+            Console.WriteLine($"{resultado} {SetString} {resultado}");
 
         }
     }

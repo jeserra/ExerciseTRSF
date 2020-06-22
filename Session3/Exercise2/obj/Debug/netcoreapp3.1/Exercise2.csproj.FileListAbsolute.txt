@@ -11,3 +11,16 @@ D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session3\E
 D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
 D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb
 D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Ejercios\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.genruntimeconfig.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csprojAssemblyReference.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfoInputs.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfo.cs
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csproj.CoreCompileInputs.cache
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.exe
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.deps.json
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.json
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.dev.json
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.dll
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.pdb
+D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\Session3\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.genruntimeconfig.cache
