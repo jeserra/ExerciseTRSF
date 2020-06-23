@@ -7,10 +7,10 @@ namespace Exercise2
     {
         int x,y;
         String M;
-        public FramedText(int X,int Y,String sStrtin )
+        public FramedText(String sStrtin )
         {
-            this.x=X;
-            this.y=Y;
+            this.x=35;
+            this.y=5;
             this.M=sStrtin;
         }
         public void Diplay()

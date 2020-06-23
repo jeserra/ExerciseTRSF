@@ -11,9 +11,16 @@ namespace Exercise2
             this.Y = y;
             this.SetString = setString;
         }
-        public int Y { set; get; }
-        public int X { set; get; }
-        public string SetString { set; get; }
+
+        public ScreenText(int y, String setString)
+        {
+            this.X = 5;
+            this.Y = y;
+            this.SetString = setString;
+        }
+        public int Y { private set; get; }
+        public int X { private set; get; }
+        public string SetString { private set; get; }
 
 
 
@@ -21,7 +28,7 @@ namespace Exercise2
         {
             int i=0;
 
-            while (i==X){
+            while (i==Y){
                 Console.WriteLine(" 1");
 
             }
