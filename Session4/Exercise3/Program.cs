@@ -13,11 +13,13 @@ namespace Exercise3
 
         public static void Potencia(int Numero,int Potencia)
         {
-            int i=0,resultado=Numero;
-            while (i==Potencia)
+            int i=1,resultado=1;
+            while (i<=Potencia)
             {
-                resultado=Numero*resultado;
-                
+               
+                resultado*=Numero;
+
+                 i++;
             }
             Console.WriteLine($"el resutado es {resultado}");
             
