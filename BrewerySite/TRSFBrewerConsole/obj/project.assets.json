@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\Exercise.csproj",
-      "projectName": "Exercise",
-      "projectPath": "d:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\Exercise.csproj",
+      "projectUniqueName": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewerConsole\\TRSFBrewerConsole.csproj",
+      "projectName": "TRSFBrewerConsole",
+      "projectPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewerConsole\\TRSFBrewerConsole.csproj",
       "packagesPath": "C:\\Users\\chent\\.nuget\\packages\\",
-      "outputPath": "d:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\obj\\",
+      "outputPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewerConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chent\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Ejercios\\Session9\\Exercise\\Exercise.csproj": {}
+    "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Ejercios\\Session9\\Exercise\\Exercise.csproj": {
+    "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Ejercios\\Session9\\Exercise\\Exercise.csproj",
+        "projectUniqueName": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Ejercios\\Session9\\Exercise\\Exercise.csproj",
+        "projectPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\Exercise.csproj",
         "packagesPath": "C:\\Users\\chent\\.nuget\\packages\\",
-        "outputPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Ejercios\\Session9\\Exercise\\obj\\",
+        "outputPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\Session9\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chent\\AppData\\Roaming\\NuGet\\NuGet.Config"
