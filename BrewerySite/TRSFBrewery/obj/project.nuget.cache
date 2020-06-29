@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTdOsIVIj4RMFwE2Nq61INJFA34VQ0LYMu8igfxMTt1OFKBxD5wmHBxapKMzMJTBjmg+jdYScG3/YHGzqnRTXQ==",
+  "dgSpecHash": "BYSaAr8sZIvz9kHWRtfGe41k2Omw5Q62FIulW4g4T8ewgo3lun0sGUnsQwjh5w1as1tgpnFKKDpQfRUw8IOflw==",
   "success": true,
-  "projectFilePath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSF.Brewery\\TRSF.Brewery.csproj",
+  "projectFilePath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewery\\TRSFBrewery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chent\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\chent\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

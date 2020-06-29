@@ -1,2 +1,1 @@
-dotnet add .\BrewerySite\TRSFBrewerConsole.csproj reference .\TRSF.Brewery\TRSF.Brewery.csproj
-
+dotnet add .\TRSFBrewerConsole.csproj reference .\TRSFBrewer\TRSFBrewery.csproj

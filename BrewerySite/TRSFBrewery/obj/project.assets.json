@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSF.Brewery\\TRSF.Brewery.csproj",
-      "projectName": "TRSF.Brewery",
-      "projectPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSF.Brewery\\TRSF.Brewery.csproj",
+      "projectUniqueName": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewery\\TRSFBrewery.csproj",
+      "projectName": "TRSFBrewery",
+      "projectPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewery\\TRSFBrewery.csproj",
       "packagesPath": "C:\\Users\\chent\\.nuget\\packages\\",
-      "outputPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSF.Brewery\\obj\\",
+      "outputPath": "D:\\User\\Vicente\\Proyectos\\Cursos de Programacion\\Curso de C#\\Repocitorio\\ExerciseTRSF\\BrewerySite\\TRSFBrewery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chent\\AppData\\Roaming\\NuGet\\NuGet.Config"

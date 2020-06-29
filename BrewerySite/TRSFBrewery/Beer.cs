@@ -1,6 +1,6 @@
 using System;
 
-namespace TRSF.Brewery
+namespace TRSFBrewery
 {
     public class Beer
     {

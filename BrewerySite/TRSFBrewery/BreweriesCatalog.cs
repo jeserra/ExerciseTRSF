@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 
-namespace TRSF.Brewery
+namespace TRSFBrewery
 {
     public class BreweriesCatalog : Load
     {
