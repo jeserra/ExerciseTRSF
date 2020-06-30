@@ -4,25 +4,21 @@ using System.Collections.Generic;
 
 namespace TRSFBrewery
 {
-    public class BreweriesCatalog : Load
+    public class BreweriesCatalog 
     {
-        public void load(string filename)
+        public List<Brewery> getBreweries()
         {
-            List<Brewery> brewery = new List<Brewery>{};
-            try
+            List<Brewery> listBreweies=new List<Brewery>{};
+            String phat = @"D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\BrewerySite\Files\breweries.csv";
+            Loader breweries=new Loader();
+            String[] rowBre_=breweries.load(phat);
+            foreach (var item in rowBre_)
             {
-                var line=File.ReadAllLines(filename);
-                foreach (var item in line)
-                {
-                    
-                    var row =item.Split(',');
-                    // brewery.Add( new Brewery(){row[0]}); 
-                }
+                var row=item.Split(',');
+                listBreweies.Add(new Brewery(){Name=row[1],Address=row[2],City=row[4],State=row[5],ZipCode=row[6],Country=row[7],Phone=row[8],WebSitie=row[9],Decription=row[11]});
             }
-            catch(FileLoadException e)
-            {
-                Console.WriteLine($"sorry we found a type error {e}");
-            }
+            return listBreweies;
+            
             
         }
     }

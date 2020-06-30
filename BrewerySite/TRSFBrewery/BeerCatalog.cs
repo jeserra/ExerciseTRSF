@@ -5,30 +5,27 @@ using System.IO;
 
 namespace TRSFBrewery
 {
-    public class BeerCatalog : Load
+    public class BeerCatalog
     {
-       
-
-        //string filename=@"D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\BrewerySite\Files\beers-cleaned.csv";
-
-
-        public void load(string filename)
+        public List<Beer> GetBeers()
         {
-             List<Beer> Beers=new List<Beer>{};
-            try
-            {
-                var line = File.ReadAllLines(filename);
-                foreach (var item in line)
-                {
-                    var field = item.Split(',');
+            List<Beer> beers1 = new List<Beer> { };
 
-                    //Beers.Add(item: new Beer(){field[0]}); 
-                }
-            }catch(FileLoadException e)
+            string nameFile = @"D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\BrewerySite\Files\beers-cleaned.csv";
+            Loader loaderBeer = new Loader();
+            var beer = loaderBeer.load(nameFile);
+            foreach (var item in beer)
             {
-                WriteLine($"sorry we found a type error {e}");
+                var beers = item.Split(',');
+                beers1.Add(new Beer() { Category = beers[0], StyleName = beers[1], Description = beers[2], GlassType = beers[3], Country = beers[4] });
+
             }
+
+            return beers1;
+
+
         }
+
     }
 
 }

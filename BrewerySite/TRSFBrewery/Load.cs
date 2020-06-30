@@ -3,6 +3,6 @@ namespace TRSFBrewery
 {
     public interface Load
     {
-         void load(String filename);
+         string[] load(String filename);
     }
 }
