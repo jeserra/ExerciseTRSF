@@ -5,26 +5,34 @@ using System.IO;
 
 namespace TRSFBrewery
 {
-    public class BeerCatalog
+    public class BeerCatalog:Loader
     {
-        public List<Beer> GetBeers()
+
+        public List<Beer>  SetListBeer()
         {
             List<Beer> beers1 = new List<Beer> { };
+            
+            return beers1;
+        }
 
+        public override void Prase()
+        {
+            
             string nameFile = @"D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\BrewerySite\Files\beers-cleaned.csv";
-            Loader loaderBeer = new Loader();
-            var beer = loaderBeer.load(nameFile);
+            var beer = load(nameFile);
+
             foreach (var item in beer)
             {
-                var beers = item.Split(',');
-                beers1.Add(new Beer() { Category = beers[0], StyleName = beers[1], Description = beers[2], GlassType = beers[3], Country = beers[4] });
-
+                var fields = item.Split(',');
+                if (fields.Length >= 10)
+                    SetListBeer().Add(new Beer() { Category ="null", StyleName = fields[2], 
+                    Description = fields[9], GlassType = "null", Country = "null", 
+                    abv=fields[5],ibu=fields[6],srm=fields[7],upc=fields[8] });
+                
             }
-
-            return beers1;
-
-
         }
+
+
 
     }
 

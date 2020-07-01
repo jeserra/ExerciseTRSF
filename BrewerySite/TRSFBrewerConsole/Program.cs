@@ -1,5 +1,6 @@
 ﻿using System;
 using TRSFBrewery;
+using static System.Console;
 
 
 namespace TRSFBrewerConsole
@@ -8,9 +9,7 @@ namespace TRSFBrewerConsole
     {
         static void Main(string[] args)
         {
-           BeerCatalog beerCatalog=new BeerCatalog();
-           
-           
+            
         }
     }
 }

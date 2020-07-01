@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+using System.Collections.Generic;
 namespace TRSFBrewery
 {
     public class Loader : Load
@@ -8,6 +9,14 @@ namespace TRSFBrewery
         {  
         var list = File.ReadAllLines(filename);
         return list;  
+        }
+
+        
+
+
+        public virtual void Prase()
+        {
+            throw new NotImplementedException();
         }
     }
 }

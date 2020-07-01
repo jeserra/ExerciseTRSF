@@ -1,1 +1,10 @@
-dotnet add .\TRSFBrewerConsole.csproj reference .\TRSFBrewer\TRSFBrewery.csproj
+id 0
+brewery_id,1
+name,2
+cat_id,3
+style_id,4
+abv,5
+ibu,6
+srm,7
+upc,8
+descript 9
