@@ -9,7 +9,12 @@ namespace TRSFBrewerConsole
     {
         static void Main(string[] args)
         {
-            
+            StyleCatalog style=new StyleCatalog();
+            var s=style.getListStyles();
+            foreach (var item in s)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

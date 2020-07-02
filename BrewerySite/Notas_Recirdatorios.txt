@@ -8,3 +8,17 @@ ibu,6
 srm,7
 upc,8
 descript 9
+
+
+
+
+
+
+            
+foreach (var item in rowsStyles)
+            {
+                var fields =item.Split(',');
+                if(fields.Length>=3)
+                getListStyles().Add(new Style(){NameStyle=fields[3],Id=int.Parse(fields[0])});
+
+            }

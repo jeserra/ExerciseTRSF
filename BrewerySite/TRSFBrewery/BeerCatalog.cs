@@ -15,7 +15,7 @@ namespace TRSFBrewery
             return beers1;
         }
 
-        public override void Prase()
+        public  void Prase()
         {
             
             string nameFile = @"D:\User\Vicente\Proyectos\Cursos de Programacion\Curso de C#\Repocitorio\ExerciseTRSF\BrewerySite\Files\beers-cleaned.csv";
