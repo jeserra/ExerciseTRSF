@@ -19,7 +19,7 @@ namespace TRSFBrewery
                     style.Id=/*int.Parse(Item[0]);*/Item[0];
                     style.NameStyle=Item[3];
                 }
-                     
+                // Si la linea no trae informacion, el metodo debe regresar un nulo, no un elemento vacio.
 
 
 
@@ -40,6 +40,8 @@ namespace TRSFBrewery
             {
                 var fields = item.Split(',');
                 var Style = Parse(fields);
+                
+                // validar si el estilo es nulo, si lo es, no agregar a la lista. 
                 Styles.Add(Style);
             }
 
